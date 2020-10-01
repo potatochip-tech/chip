@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='chip',
-  version='0.0.1',
+  version='0.2',
   description='A AI STORE',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   author='potatochip',
