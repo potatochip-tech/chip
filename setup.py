@@ -20,6 +20,6 @@ setup(
   license='MIT', 
   classifiers=classifiers,
   keywords='calculator', 
-  packages=['chip'],
+  packages=[''],
   install_requires=[''] 
 )
